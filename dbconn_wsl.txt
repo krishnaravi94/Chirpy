@@ -1,0 +1,1 @@
+psql "postgres://postgres:root@winhost:5432/chirpy"
